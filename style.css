@@ -87,3 +87,6 @@ input{
     color: #099dfd;
 }
 
+.incorrect{
+    border: 2px solid red; 
+}
